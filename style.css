@@ -189,7 +189,7 @@ header nav ul li .item-nav:hover {
 }
 
 .container .begin:hover {
-    font-size: 60px;
+    font-size: 54px;
     background-color: var(--padrao-branco);
     color: var(--padrao-preto);
 }
