@@ -15,7 +15,7 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url(img/back2.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url(img/back2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -138,11 +138,13 @@ header nav ul li .item-nav:hover {
 .container .textos-inicial .titulo {
     margin-bottom: 20px;
     font-size: 75px;
+    font-weight: 700;
 }
 
 .container .textos-inicial p {
     font-size: 20px;
     width: 80%;
+    font-weight: 400;
 }
 
 /* .container .cards {
